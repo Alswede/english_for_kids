@@ -1,7 +1,7 @@
 # english_for_kids
 Информация (обновлена для проверяющих):
 
-На netlify вроде должен работать - https://alswede-repeat.netlify.app/#
+На netlify вроде должен работать - https://alswede-english-for-kids.netlify.app/#
 
 если не открывает- проблемы с доступом - исходники и запуск локально ниже:
 
@@ -18,7 +18,7 @@
 При необходимости и в целях уточнения в комментарии напишите свои контакты - я постараюсь ответить на вопросы.
 Аналогичные репо лежат в приват репо:https://github.com/Alswede/english-for-kids
 
-На netlify вроде должен работать - https://alswede-repeat.netlify.app/#
+На netlify вроде должен работать - https://alswede-english-for-kids.netlify.app
 
 
 Контакты для связи и уточнения: alswede@yandex.ru, в дискорд: Alswede#7205
